@@ -1,0 +1,22 @@
+.first{
+background-color: rgb(236, 156, 169);
+font-family: Verdana, "DejaVu Sans", sans-serif;
+
+}
+.cool{
+    font-size: 24px;
+
+
+}
+#unique{
+    color: blue;
+    font-size: 36px;
+
+
+}
+#special{
+    background-color: rgb(8, 248, 8);
+    font-weight: bold;
+    font-size: 24px;
+
+}
